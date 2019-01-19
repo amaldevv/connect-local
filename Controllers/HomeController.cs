@@ -12,6 +12,7 @@ namespace connect_local.Controllers
     {
         public IActionResult Index()
         {
+            var str="placeholder"; 
             return View();
         }
 
